@@ -1,0 +1,26 @@
+.before {
+  margin: 6px;
+  border: 2px solid aqua;
+  padding: 6px;
+  float: left;
+  width: 400px;
+}
+
+.during {
+  float: left;
+
+  position: relative;
+  right: -10%;
+  margin: 6px;
+  border: 2px solid peachpuff;
+  padding: 6px;
+  width: 200px;
+}
+
+.after {
+  margin: 6px;
+  border: 2px solid springgreen;
+  padding: 6px;
+  float: right;
+  width: 400px;
+}
